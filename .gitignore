@@ -1,0 +1,10 @@
+json/
+debug.log
+.env
+__pycache__
+**/__pycache__/
+/__pycache__/
+__pycache__/
+*.env
+**/*.env
+json/*.json
